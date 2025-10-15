@@ -1,6 +1,7 @@
 import os
 import random
 
+# folder name replace 
 BASE_PATH = "gpt_cyber_ai"
 
 def ensure_folder_exists(folder_path):
